@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-2.0.0-red?style=for-the-badge" alt="Version"/>
+  <img src="https://img.shields.io/badge/version-2.5.0-red?style=for-the-badge" alt="Version"/>
   <img src="https://img.shields.io/badge/minecraft-1.17.1%20--%201.21.x+-green?style=for-the-badge" alt="Minecraft"/>
   <img src="https://img.shields.io/badge/folia-supported-blue?style=for-the-badge" alt="Folia"/>
   <img src="https://img.shields.io/badge/java-17+-orange?style=for-the-badge" alt="Java"/>
